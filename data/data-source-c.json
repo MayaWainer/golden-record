@@ -1,0 +1,13 @@
+[
+  {"t_id": "sup_01", "user_email": "j.doe@work.com", "middle_name": "Quentin", "phone": "555-0101", "address": "123 Maple St, London"},
+  {"t_id": "sup_02", "user_email": "jdoe@workcom", "middle_name": "Quentin", "phone": "555-xxxx", "address": "123 Maple Street London"},
+  {"t_id": "sup_03", "user_email": "j.doe@work.com", "middle_name": "XAVIER", "phone": "555-9999", "address": "123 Maple St, UK"},
+  {"t_id": "sup_04", "user_email": "j.doe@work.com", "middle_name": "Quentin", "phone": "555-0101", "address": "123 Maple St, London Area"},
+  {"t_id": "sup_05", "user_email": "j.doe@work.com", "middle_name": "XAVIER", "phone": "555-9999", "address": "456 Side St, London"},
+  {"t_id": "sup_06", "user_email": "tony@stark.com", "middle_name": "Edward", "phone": "555-9000", "address": "Stark Tower, NY"},
+  {"t_id": "sup_07", "user_email": "steve.rogers@avengers.org", "middle_name": "Grant", "phone": "555-1941", "address": "Brooklyn, NY"},
+  {"t_id": "sup_08", "user_email": "natasha.r@redroom.ru", "middle_name": "Alianovna", "phone": "Unknown", "address": "Moscow"},
+  {"t_id": "sup_09", "user_email": "bruce.banner@gamma.com", "middle_name": "Robert", "phone": "555-4321", "address": "Hidden Lab"},
+  {"t_id": "sup_10", "user_email": "hal.jordan@green.com", "middle_name": "Highball", "phone": "555-2222", "address": "Coast City"}
+]
+

@@ -1,0 +1,13 @@
+[
+  {"id": "mkt_01", "full_name": "John Quentin Doe", "middle_name": "Quentin", "contact_email": "J.DOE@WORK.COM", "street": "Maple St", "city": "London", "country": "UK"},
+  {"id": "mkt_02", "full_name": "John Q. Doe", "middle_name": "Quentin", "contact_email": "J.DOE@WORK.COM", "city": "London"},
+  {"id": "mkt_03", "full_name": "John Doe", "middle_name": "Quentin", "contact_email": "mailto:j.doe_at_work_dot_com", "street": "123 Maple St", "country": "UK"},
+  {"id": "mkt_04", "full_name": "John Doe", "middle_name": "Quentin", "contact_email": "J.DOE@WORK.COM", "street": "123 Maple", "city": "London", "country": "UK"},
+  {"id": "mkt_05", "full_name": "John Quentin Doe", "middle_name": "Quentin", "contact_email": "J.DOE@WORK.COM", "street": "123 Maple St", "city": "London"},
+  {"id": "mkt_06", "full_name": "Bruce Wayne", "middle_name": "Thomas", "contact_email": "bat@cave.com", "street": "Wayne Manor", "city": "Gotham", "country": "USA"},
+  {"id": "mkt_07", "full_name": "Clark Kent", "middle_name": "Joseph", "contact_email": "clark@dailyplanet.com", "street": "Clinton St", "city": "Metropolis", "country": "USA"},
+  {"id": "mkt_08", "full_name": "Diana Prince", "middle_name": null, "contact_email": "wonder@amazon.com", "country": "Themyscira"},
+  {"id": "mkt_09", "full_name": "Arthur Curry", "middle_name": "A.", "contact_email": "aquaman@atlantis.com", "street": "Lighthouse Point", "city": "Amnesty Bay"},
+  {"id": "mkt_10", "full_name": "Barry Allen", "middle_name": "Henry", "contact_email": "flash@centralcity.com", "city": "Central City", "country": "USA"}
+]
+

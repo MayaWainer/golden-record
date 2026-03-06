@@ -1,0 +1,13 @@
+[
+  {"uid": "crm_01", "first_name": "JOHN", "middle_name": "QUENTIN", "last_name": "DOE", "email_address": "j.doe@work.com", "address": "123 Maple St, London"},
+  {"uid": "crm_02", "first_name": "JOHN", "middle_name": "Q", "last_name": "DOE", "email_address": "j.doe@work.com", "address": "123 Maple St, London"},
+  {"uid": "crm_03", "first_name": "JOHN", "middle_name": "QUENTIN", "last_name": "DOE", "email_address": "j.doe@work.com", "address": "456 Side St, London"},
+  {"uid": "crm_04", "first_name": "JOHN", "middle_name": "ERROR", "last_name": "DOE", "email_address": "j.doe.work.com", "address": "123 Maple St, London"},
+  {"uid": "crm_05", "first_name": "JOHN", "middle_name": "somer", "last_name": "DOE", "email_address": "j.somer@work.com", "address": "999 Junk Rd chicago"},
+  {"uid": "crm_06", "first_name": "Alice", "middle_name": null, "last_name": "Smith", "email_address": "alice.s@gmail.com", "address": "88 Harbor Rd, NY"},
+  {"uid": "crm_07", "first_name": "Robert", "middle_name": "B", "last_name": "Brown", "email_address": "rob.b@provider.net", "address": "10 Pine Ln, TA"},
+  {"uid": "crm_08", "first_name": "Elena", "middle_name": "Maria", "last_name": "Rodriguez", "email_address": "elena.rod@company.io", "address": "5th Ave, Madrid"},
+  {"uid": "crm_09", "first_name": "Sam", "middle_name": null, "last_name": "Lee", "email_address": "slee@edu.com", "address": "7th St, Seoul"},
+  {"uid": "crm_10", "first_name": "TEST", "middle_name": "USER", "last_name": "ONLY", "email_address": "test@test.com", "address": "000 Junk St"}
+]
+
